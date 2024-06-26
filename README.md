@@ -1,0 +1,1 @@
+This is the code I wrote for an ESP32 based smart home macropad. It detects keypresses on a matrix and then sends a corresponding topic to a MQTT broker, that can be used by Home Assistant to trigger automations. 
